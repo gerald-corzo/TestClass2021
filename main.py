@@ -13,6 +13,8 @@ if c=="1":
 	x=np.linspace(1,100,100)
 	y=np.sin(x)
 	plt.plot(x,y)
+	plt.show()
 else:
 	print("selecciono otro")
+
 
