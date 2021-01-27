@@ -10,6 +10,7 @@ c=input("Select   ")
 
 
 if c=="1":
+<<<<<<< HEAD
 	PlotSin(20,5)
 else:
 	print("selecciono otro")
